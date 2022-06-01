@@ -1,2 +1,2 @@
 # 3D-Gun-Range
-Please read the docx document for the project information.
+Please read the 'Book Project.docx' document for the project information.
